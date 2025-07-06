@@ -11,7 +11,7 @@
 /[Uu]ser[Ss]ettings/
 
 # Unity Asset 폴더 무시
-/[Aa]ssets/
+/[Aa]ssets/@Resources
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
